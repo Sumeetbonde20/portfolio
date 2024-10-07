@@ -368,7 +368,7 @@ transform: scale(1.02);
  width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive columns */
-  gap: 3rem; /* Controls the space between the cards */
+  gap: 5rem; /* Controls the space between the cards */
 row-gap: 5rem; /* Adds padding for spacing around the grid */
 }
 
